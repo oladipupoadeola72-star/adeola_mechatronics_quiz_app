@@ -1,48 +1,35 @@
-# ADEOLA MECHATRONICS QUIZ APP
+# Mechatronics Quiz App by Adela
 
-### A Python-Based Educational Quiz Application
+A Python-based interactive quiz application designed to test and improve knowledge of Mechatronics Engineering.
 
-Welcome to Mechatronics Quiz by Adela!
-
-This project is a Python-based multiple-choice quiz
-application designed to test and improve basic
-knowledge of Mechatronics Engineering.
-
-## ABOUT THE PROJECT
-
-The application provides interactive questions
-covering important areas of Mechatronics Engineering.
-
-## FEATURES
-
-- Welcome message.
-- Multiple-choice questions.
-- Extended quiz questions.
-- Automatic answer marking.
-- Score calculation.
-- Final percentage display.
+## Features
+- 20 multiple-choice questions.
+- Welcome message before the quiz begins.
+- Automatic marking of answers.
+- Instant feedback and explanations.
+- Final score and percentage calculation.
 - Performance grading.
-- Review of incorrect answers.
+- Review of incorrect answers with correct answers.
 
-## TECHNOLOGIES USED
-
+## Technologies Used
 - Python 3
 
-## AUTHOR
+## How to Run
+1. Download or clone this repository.
+2. Open the project folder.
+3. Run the program using:
 
+   python mechatronics_quiz_by_adela.py
+
+You can also run the Python file using Pydroid 3 on Android.
+
+## Author
 **Oladipupo Adeola Iyanuoluwa**
 
-Department: Mechatronics Engineering
+Department: Mechatronics Engineering  
+Level: ND 2
 
-Level: National Diploma (ND 2)
+## Purpose
+This project was developed as a practical programming project to demonstrate the application of Python in creating an interactive educational quiz.
 
-## PROJECT PURPOSE
-
-This project was developed as a practical
-demonstration of Python programming skills
-and the application of programming in
-Mechatronics Engineering.
-
----
-
-© 2026 Adela. All Rights Reserved.
+© 2026 Adela. All rights reserved.
